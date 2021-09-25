@@ -1,4 +1,6 @@
-# `isorespin.sh`
+# `isorespin-pop.sh`
+
+Fork of isorespin to add workarounds for Pop!_OS
 
 Linuxium's script to respin an Ubuntu, Ubuntu flavour, Linux Mint, neon, elementary, BackBox or Peppermint ISO and optionally add/remove functionality like kernels/packages/files, etc.
 
