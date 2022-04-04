@@ -2,6 +2,8 @@
 
 Fork of isorespin to add workarounds for Pop!_OS
 
+This is super untested and super hacky and you shouldn't use it
+
 Linuxium's script to respin an Ubuntu, Ubuntu flavour, Linux Mint, neon, elementary, BackBox or Peppermint ISO and optionally add/remove functionality like kernels/packages/files, etc.
 
 In other words, it allows Ubuntu ISO to be respun and customized ("remastered") to create a new ISO.
